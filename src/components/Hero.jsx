@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { HashLink } from 'react-router-hash-link';
 
 const Hero = () => {
   return (
@@ -14,8 +14,8 @@ const Hero = () => {
                     Full Stack Software Engineer
                 </p>
             </div>
-            <p className='md:text-2xl text-xl font-bold text-grey-500'>Solving Visions with Exceptional Web Experiences</p>
-            <Link to='/About'><button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>About Me</button></Link>
+            <p className='md:text-2xl text-xl font-bold text-gray-500'>Solving Visions with Exceptional Web Experiences</p>
+            <HashLink smooth to='/About#Top'><button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>About Me</button></HashLink>
         </div>
       
     </div>

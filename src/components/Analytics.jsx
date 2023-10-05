@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { HashLink } from 'react-router-hash-link';
 import mail from '../assets/Picture.jpg'
 
 function Analytics() {
@@ -16,7 +16,7 @@ function Analytics() {
                   Freelance Full Stack Web Developer, using ReactJS, Python Django Rest Framework and 
                   PostgreSQL. My interests in the technical field also include Java, Object Oriented 
                   Programming, and Software Development.</p>
-                  <Link to={`/About`}><button className='bg-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a]'>Learn More</button></Link>
+                  <HashLink smooth to={`/About#Top`}><button className='bg-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a]'>Learn More</button></HashLink>
             </div>
       </div>
     </div>

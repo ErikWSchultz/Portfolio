@@ -5,7 +5,7 @@ import{FaLinkedin } from 'react-icons/fa'
 
 const Footer = () => {
   return (
-    <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
+    <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300 relative'>
         <div>
             <HashLink to='/#top'><h1 className='w-full text-3xl font-bold text-[#00df9a]'>Erik Schultz</h1></HashLink>
             <p className='py-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor nam ipsum ducimus repellendus? Quidem est minus ex tempora. Rem aliquid sunt porro totam repudiandae quidem aperiam eaque possimus at.</p>
