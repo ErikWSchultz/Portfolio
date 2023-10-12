@@ -8,7 +8,7 @@ const Contact = () => {
     
   return (
     
-    <div className='max-w-[800px]  w-full h-screen mx-auto text-center flex flex-col justify-center'>
+    <div className='max-w-[800px]  w-full h-auto mx-auto text-center flex flex-col justify-center'>
        <div className='text-center flex flex-col justify-center '>
       <h1 className='text-[#00df9a] md:text-7xl sm:text-6xl text-4xl pt-6 md:py-6 font-bold :p-2  text-center flex flex-col justify-center'>Resume</h1>
       <h2 className='text-gray-300 font-bold md:text-xl'>If you wish to have a copy of my resume, please click below.</h2>
@@ -29,8 +29,12 @@ const Contact = () => {
               </div>
         </div>
         </div>
+        <div className='text-center flex flex-col justify-center '>
         <h1 className='text-[#00df9a] md:text-7xl sm:text-6xl text-4xl pt-6 md:py-6 font-bold :p-2  text-center flex flex-col justify-center'>Soft Skills</h1>
         <SoftSkills></SoftSkills>
+        <h1 className='text-[#00df9a] md:text-7xl sm:text-6xl text-4xl pt-6 md:py-6 font-bold :p-2  text-center flex flex-col justify-center'>Technical Skills</h1>
+        <Skills></Skills>
+        </div>
     </div>
   )
 }
