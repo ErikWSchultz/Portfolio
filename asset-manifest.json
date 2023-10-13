@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6cdd139b.css",
-    "main.js": "/Portfolio/static/js/main.726ece15.js",
+    "main.css": "/Portfolio/static/css/main.400d049e.css",
+    "main.js": "/Portfolio/static/js/main.5ce48bae.js",
     "static/media/standard.png": "/Portfolio/static/media/standard.4c36e3891311b285ec70.png",
     "static/media/Picture.jpg": "/Portfolio/static/media/Picture.93f4cb8c6da9d1ea25f5.jpg",
     "static/media/BoxSimulationSlides.png": "/Portfolio/static/media/BoxSimulationSlides.b275947f656697ec0acc.png",
-    "static/media/ErikSchultzResume2023.pdf": "/Portfolio/static/media/ErikSchultzResume2023.755b04e3e79caab3fe21.pdf",
+    "static/media/SchultzResumeLI.pdf": "/Portfolio/static/media/SchultzResumeLI.89f388cc08d86f3069f5.pdf",
     "static/media/Spotify.png": "/Portfolio/static/media/Spotify.2da90af53aa6600aa13f.png",
     "static/media/FoxesandRabbits.png": "/Portfolio/static/media/FoxesandRabbits.8b8afd98e45a7b8cb982.png",
     "index.html": "/Portfolio/index.html",
-    "main.6cdd139b.css.map": "/Portfolio/static/css/main.6cdd139b.css.map",
-    "main.726ece15.js.map": "/Portfolio/static/js/main.726ece15.js.map"
+    "main.400d049e.css.map": "/Portfolio/static/css/main.400d049e.css.map",
+    "main.5ce48bae.js.map": "/Portfolio/static/js/main.5ce48bae.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cdd139b.css",
-    "static/js/main.726ece15.js"
+    "static/css/main.400d049e.css",
+    "static/js/main.5ce48bae.js"
   ]
 }
