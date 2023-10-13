@@ -1,7 +1,7 @@
 import React from 'react'
 import{FaLinkedin, FaGithubSquare} from 'react-icons/fa'
 import { IoIosMail } from "react-icons/io";
-import Resume from '../assets/ErikSchultzResume2023.pdf'
+import Resume from '../assets/SchultzResumeLI.pdf'
 import Skills from '../components/TechnicalSkills'
 import SoftSkills from '../components/SoftSkills';
 const Contact = () => {

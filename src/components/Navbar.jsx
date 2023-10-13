@@ -12,9 +12,9 @@ const Navbar = () => {
     
     return(
         <div className='flex justify-betweeen items-center h-24 max-w-[1240px] mx-auto text-white px-4'>
-            <h1 className='w-full text-3xl font-bold text-[#00df9a]'><Link to={`/`}>Erik Schultz</Link></h1>
+            <h1 className='w-full text-3xl font-bold text-[#00df9a]'><Link to={`/Portfolio`}>Erik Schultz</Link></h1>
             <ul className='hidden md:flex'>
-                <li className = 'p-4' > <Link to={`/`}>Home</Link></li>
+                <li className = 'p-4' > <Link to={`/Portfolio`}>Home</Link></li>
                 <li className = 'p-4'> <Link to={`/about`}>About</Link></li>
                 <li className = 'p-4'> <Link to={`/projects`}>Projects</Link></li>
                 <li className = 'p-4'> <Link to={`/resume`}>Resume</Link></li>

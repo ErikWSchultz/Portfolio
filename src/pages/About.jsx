@@ -9,7 +9,7 @@ const About = () => {
     <div id='Top' className='pb-40 '>
 
 
-    <div className='max-w-[800px]  w-full h-screen mx-auto text-center flex flex-col py-5'>
+    <div className='max-w-[800px]  w-full  h-auto sm:h-screen mx-auto text-center flex flex-col py-5'>
       <p className='text-[#00df9a] md:text-7xl sm:text-6xl text-4xl font-bold md:py-6'>About Erik </p>
       <img className='w-[500px] mx-auto my-4 shadow rounded-full' src={[picture]} alt="/"></img>
       <div className='text-gray-300 md:text-xl py-5' >
