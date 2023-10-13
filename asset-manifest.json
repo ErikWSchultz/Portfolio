@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6cdd139b.css",
-    "main.js": "/react-gh-pages/static/js/main.41261100.js",
-    "static/media/standard.png": "/react-gh-pages/static/media/standard.4c36e3891311b285ec70.png",
-    "static/media/Picture.jpg": "/react-gh-pages/static/media/Picture.93f4cb8c6da9d1ea25f5.jpg",
-    "static/media/BoxSimulationSlides.png": "/react-gh-pages/static/media/BoxSimulationSlides.b275947f656697ec0acc.png",
-    "static/media/ErikSchultzResume2023.pdf": "/react-gh-pages/static/media/ErikSchultzResume2023.755b04e3e79caab3fe21.pdf",
-    "static/media/Spotify.png": "/react-gh-pages/static/media/Spotify.2da90af53aa6600aa13f.png",
-    "static/media/FoxesandRabbits.png": "/react-gh-pages/static/media/FoxesandRabbits.8b8afd98e45a7b8cb982.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6cdd139b.css.map": "/react-gh-pages/static/css/main.6cdd139b.css.map",
-    "main.41261100.js.map": "/react-gh-pages/static/js/main.41261100.js.map"
+    "main.css": "/portfolio/static/css/main.6cdd139b.css",
+    "main.js": "/portfolio/static/js/main.ce209410.js",
+    "static/media/standard.png": "/portfolio/static/media/standard.4c36e3891311b285ec70.png",
+    "static/media/Picture.jpg": "/portfolio/static/media/Picture.93f4cb8c6da9d1ea25f5.jpg",
+    "static/media/BoxSimulationSlides.png": "/portfolio/static/media/BoxSimulationSlides.b275947f656697ec0acc.png",
+    "static/media/ErikSchultzResume2023.pdf": "/portfolio/static/media/ErikSchultzResume2023.755b04e3e79caab3fe21.pdf",
+    "static/media/Spotify.png": "/portfolio/static/media/Spotify.2da90af53aa6600aa13f.png",
+    "static/media/FoxesandRabbits.png": "/portfolio/static/media/FoxesandRabbits.8b8afd98e45a7b8cb982.png",
+    "index.html": "/portfolio/index.html",
+    "main.6cdd139b.css.map": "/portfolio/static/css/main.6cdd139b.css.map",
+    "main.ce209410.js.map": "/portfolio/static/js/main.ce209410.js.map"
   },
   "entrypoints": [
     "static/css/main.6cdd139b.css",
-    "static/js/main.41261100.js"
+    "static/js/main.ce209410.js"
   ]
 }
