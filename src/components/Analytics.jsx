@@ -6,7 +6,7 @@ function Analytics() {
   return (
     <div className='w-full bg-white py-16 px-4'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-            <img className='w-[500px] mx-auto my-4' src={mail} alt="/"></img>
+            <img className='w-[500px] mx-auto my-4 shadow rounded-full' src={mail} alt="/"></img>
             <div className='flex flex-col justify-center'>
                 <p className='text-[#00df9a] uppercase font-bold'>Erik Schultz</p>
                 <h1 className='md:text-4xl sm:3xl text-2xl font-bold py-2'>At a Glance</h1>
