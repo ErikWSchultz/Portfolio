@@ -2,7 +2,7 @@ import React from 'react'
 import{FaLinkedin, FaGithubSquare} from 'react-icons/fa'
 import { IoIosMail } from "react-icons/io"; 
 import {BsFiletypePdf} from 'react-icons/bs'
-import Resume from '../assets/ErikSchultzcv.pdf'
+import Resume from '../assets/ErikSchultzResume2023.pdf'
 
 const Newsletter = () => {
   return (

@@ -1,55 +1,33 @@
 import React from 'react'
-
 import { HashLink } from 'react-router-hash-link';
-import{FaLinkedin } from 'react-icons/fa'
+import{FaLinkedin, FaGithubSquare} from 'react-icons/fa'
 
 const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300 relative mt-1'>
         <div>
             <HashLink to='/#top'><h1 className='w-full text-3xl font-bold text-[#00df9a]'>Erik Schultz</h1></HashLink>
-            <p className='py-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor nam ipsum ducimus repellendus? Quidem est minus ex tempora. Rem aliquid sunt porro totam repudiandae quidem aperiam eaque possimus at.</p>
-            <div className='flex justify-between md:w-[75%] my-6 '> 
+            <p className='py-4'>Erik Schultz is a dynamic Full Stack Software Developer with a strong foundation in Computer Science, graduating from Rowan University. His freelance expertise encompasses JavaScript, ReactJS, Python Django, PostgreSQL, Bootstrap, Azure, and JWT Auth. </p>
+            <div className='flex md:w-[75%] my-6 '> 
             <a href='https://www.linkedin.com/in/erik-schultz-97b525232/' target='_blank' rel="noreferrer"> <FaLinkedin size={30}/> </a>
+            <a href='https://github.com/ErikWSchultz' target='_blank' rel="noreferrer"> <FaGithubSquare size={30}/> </a>
             </div>
         </div>
         <div className='lg:col-span-2 flex justify-between mt-6'>
+        <div>
+            <h6 className = 'p-4 font-medium text-gray-400'> <HashLink to={`/#top`}>Home</HashLink></h6>
+            </div>
            <div>
-                <h6 className='font-medium text-gray-400'>Solutions</h6>
-                <ul>
-                    <li className='py-2 text-sm'>Analytics</li>
-                    <li className='py-2 text-sm'>Marketing</li>
-                    <li className='py-2 text-sm'>Commerce</li>
-                    <li className='py-2 text-sm'>Insights</li>
-                </ul>
+             <h6 className = 'p-4 font-medium text-gray-400'> <HashLink to={`/about#Top`}>About</HashLink></h6>
             </div>
             <div>
-                <h6 className='font-medium text-gray-400'>Support</h6>
-                <ul>
-                    <li className='py-2 text-sm'>Pricing</li>
-                    <li className='py-2 text-sm'>Documentation</li>
-                    <li className='py-2 text-sm'>Guides</li>
-                    <li className='py-2 text-sm'>API Status</li>
-                </ul>
+            <h6 className = 'p-4 font-medium text-gray-400'> <HashLink to={`/projects#Mail`}>Projects</HashLink></h6>
+                
             </div>
             <div>
-                <h6 className='font-medium text-gray-400'>Company</h6>
-                <ul>
-                    <li className='py-2 text-sm'>About</li>
-                    <li className='py-2 text-sm'>Blog</li>
-                    <li className='py-2 text-sm'>Jobs</li>
-                    <li className='py-2 text-sm'>Careers</li>
-                </ul>
+            <h6 className = 'p-4 font-medium text-gray-400'> <HashLink to={`/resume#top`}>Resume</HashLink></h6>
             </div>
-            <div>
-                <h6 className='font-medium text-gray-400'>Legal</h6>
-                <ul>
-                    <li className='py-2 text-sm'>Claim</li>
-                    <li className='py-2 text-sm'>Policy</li>
-                    <li className='py-2 text-sm'>Terms</li>
-                    
-                </ul>
-            </div>
+            
             
         </div>
     </div>
