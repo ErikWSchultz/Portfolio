@@ -123,7 +123,7 @@ const Skills = () => {
             </ul>
             </li>
             <li className="w-[100%]">
-            <h3 className=" text-[#00df9a] md:text-4xl sm:text-3xl text-xl text-center mb-4 sm:mb-5 md:mb-6 lg:mb-7">'Microsoft Products</h3>
+            <h3 className=" text-[#00df9a] md:text-4xl sm:text-3xl text-xl text-center mb-4 sm:mb-5 md:mb-6 lg:mb-7">Microsoft Products</h3>
             <ul className="grid justify-items-center items-stretch justify-center grid-cols-[repeat(auto-fit,minmax(90px,90px))] gap-7 sm:grid-cols-[repeat(auto-fit,minmax(110px,110px))] sm:gap-8 md:grid-cols-[repeat(auto-fit,minmax(125px,125px))] lg:grid-cols-[repeat(auto-fit,minmax(140px,140px))]">
                 
                     <li  className=" flex flex-col flex-nowrap items-center justify-center gap-5 glassy-screen w-[90px] min-h-[90px] p-4 sm:w-[110px] sm:min-h-[110px] sm:p-4 md:w-[125px] md:min-h-[125px] md:p-5 lg:w-[140px] lg:min-h-[140px] lg:p-6">

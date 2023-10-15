@@ -15,7 +15,7 @@ const Footer = () => {
         </div>
         <div className='lg:col-span-2 flex justify-between mt-6'>
         <div>
-            <h6 className = 'p-4 font-medium text-gray-400'> <HashLink to={`/Porfolio#top`}>Home</HashLink></h6>
+            <h6 className = 'p-4 font-medium text-gray-400'> <HashLink to={`/Portfolio#top`}>Home</HashLink></h6>
             </div>
            <div>
              <h6 className = 'p-4 font-medium text-gray-400'> <HashLink to={`/about#Top`}>About</HashLink></h6>
