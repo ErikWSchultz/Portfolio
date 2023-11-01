@@ -27,7 +27,7 @@ const Cards = () => {
                 <p className='text-center text-4xl font-bold'>Custom Eccommerce Store</p>
                 <div className='text-center font-medium'>
                     <p className='py-2 border-b mx-8 mt-8'>Ecommerce store with RESTful API, secure transactions, Community Lookup, Admin Portal for Analytics</p>
-                    <p className='py-2 border-b mx-8'>ReactJS, Python Django, HTML, CSS, PostgreSql, AWS</p>
+                    <p className='py-2 border-b mx-8'>ReactJS, Python Django, HTML, CSS, PostgreSQL, Azure</p>
                 </div>
                 <HashLink smooth className='text-center' to='/Projects#Mail'><button className='bg-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-[#00df9a]'>Learn More</button></HashLink>
             </div>
