@@ -19,8 +19,7 @@ I am a Results-driven Full Stack Software Developer specializing in JavaScript, 
  including the development and deployment of a secure E-Commerce store that drove a 30% boost in revenue. Adept at collaborating with clients to understand product requirements and design alternatives, 
  ensuring alignment with business goals. Experienced in Agile Development and Scrum methodologies, with a strong foundation in object-oriented programming, algorithms, and data structures. 
  Skilled in fostering brand awareness through the creation of innovative web applications and proficient in optimizing product performance and user experience.
-  Effective communicator and collaborator, 
- capable of orchestrating seamless operations in fast-paced, high-stress environments. Seeking opportunities to contribute technical expertise and drive impactful solutions in a dynamic and collaborative team environment.
+  
         </p>
         <p className='py-4'>Effective communicator and collaborator, 
  capable of orchestrating seamless operations in fast-paced, high-stress environments. Seeking opportunities to contribute technical expertise and drive impactful solutions in a dynamic and collaborative team environment.</p>
