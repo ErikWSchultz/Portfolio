@@ -90,7 +90,7 @@ const Projects = () => {
         <div className='max-w-[1240px] py-4 mx-auto grid md:grid-cols-2 '>
             <div>
             <img className='w-[500px]  mx-auto my-4' src={spotify} alt="/"></img>
-            <p className='text-center'>'Temorary Image'</p>
+            <p className='text-center'>'Temporary Image'</p>
             </div>
             <div className='flex flex-col justify-center'>
             
